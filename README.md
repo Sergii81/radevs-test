@@ -7,6 +7,8 @@
 
 - git clone https://github.com/Sergii81/radevs-test.git
 - composer install
+- cp .env.example .env
+- php artisan key:generate
 - set db credentials in .env
   - DB_CONNECTION=mysql
   - DB_HOST=localhost
