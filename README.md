@@ -17,6 +17,7 @@
 - php artisan migrate
 - php artisan app:setup (setup roles, permissions)
 - php artisan db::seed
+- php artisan serv
 - admin credentials
   - login: admin@admin.com
   - password: admin
